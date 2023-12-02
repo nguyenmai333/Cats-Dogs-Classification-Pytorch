@@ -12,7 +12,8 @@ Download the cats and dogs image dataset from the Kaggle competition.
 ```
 kaggle competitions download -c dogs-vs-cats
 ```
-Downloaded file and place it in the root folder of the repository.
+Or link: `https://www.kaggle.com/c/dogs-vs-cats`
+downloaded file and place it in the root folder of the repository.
 ### Unzip and Split data to Train, Validation.
 ```
 python get-data.py
